@@ -1,6 +1,6 @@
 ### :tada:
 
-![NateRickard Github Stats](https://github-readme-stats.vercel.app/api?username=naterickard&show_icons=true&count_private=true&theme=radical)
+![NateRickard Github Stats](https://github-readme-stats.vercel.app/api?username=naterickard&show_icons=true&count_private=true&theme=tokyonight)
 
 
 
